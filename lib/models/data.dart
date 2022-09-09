@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-List<CardsofNumbers> cardsofnumbers = carddataofnumbers
+List<CardsofNumbers> cardsofnumbers = carddataofnumber
     .map((item) => CardsofNumbers(
           item['img'],
           item['eng'],
